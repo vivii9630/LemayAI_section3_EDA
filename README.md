@@ -8,3 +8,6 @@
 - To analyse diversified reviews and list the most common words, including uni-gram and bi-gram visualization. <br>
 
 - To provide advanced visualizations of words in reviews using scattertext.
+
+# Scattertext visualization:
+![](https://github.com/vivii9630/LemayAI_section3_EDA/blob/main/images/text_gif.gif)
